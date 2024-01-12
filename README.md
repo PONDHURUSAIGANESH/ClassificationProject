@@ -1,4 +1,3 @@
- **Here's the rephrased text, incorporating best practices and addressing potential issues:**
 
 # Project Setup and Execution Guide for ClassificationProject
 
@@ -17,7 +16,7 @@
    - Update `dvc.yaml` for data versioning and reproducibility (if applicable).
    - Review `app.py` for the web application component.
 
-**## Running the Project**
+## Running the Project
 
 **1. Clone the Repository:**
    ```bash
