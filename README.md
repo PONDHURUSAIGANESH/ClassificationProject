@@ -1,8 +1,8 @@
  **Here's the rephrased text, incorporating best practices and addressing potential issues:**
 
-**# Project Setup and Execution Guide for ClassificationProject**
+# Project Setup and Execution Guide for ClassificationProject
 
-**## Key Configuration and Workflow Steps**
+## Key Configuration and Workflow Steps
 
 1. **Configure Project Settings:**
    - Update `config.yaml` for global project configurations.
